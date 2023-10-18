@@ -1,83 +1,31 @@
-<!DOCTYPE html>
-<html>
+---
+layout: compress
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="keywords" content="ronak d mehta,
-	ronak mehta,
-	uw statistics,
-	uw biostatistics,
-	ronakdmehta,
-	university of washington statistics,
-	johns hopkins university,
-  jhu,
-  uw,
-  ronak mehta facebook,
-  ronak mehta microsoft,
-  ronak mehta amazon,
-  ronak mehta de shaw">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+{% include base_path %}
 
-  <title>{{ site.title }}</title>
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-  <link rel="stylesheet" type="text/css" href="{{ site.path }}/css/style.css">
-  <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/bootstrap-theme.min.css" rel="stylesheet">
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <body>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-  <script src="{{ site.path }}/js/bootstrap.min.js"></script>
-</head>
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-<body>
-  <nav class="navbar navbar-inverse navbar-fixed-top">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
-          aria-expanded="false" aria-controls="navbar">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand">{{ site.title }}</a>
-      </div>
-      <div id="navbar" class="collapse navbar-collapse">
-        <ul class="nav navbar-nav">
-          <li><a class="active" href="//ronakdm.github.io">Home</a></li>
-          <!-- <li><a class="active" href="research.html">Research</a></li> -->
-          <li><a class="active" href="research.html">Research</a></li>
-          <!-- <li><a class="active" href="pages/talks.html">Talks</a></li> -->
-          <li><a class="active" href="teaching.html">Teaching</a></li>
-          <!-- <li><a class="active" href="pages/service.html">Service</a></li> -->
-          <li><a class="active" href="projects.html">Projects</a></li>
-          <li><a class="active" href="cv.html">CV</a></li>
-          <!-- <li><a class="active" href="tutoring.html">Tutoring</a></li> -->
-          <li><a class="active" href="contact.html">Contact</a></li>
-        </ul>
-      </div>
-      <!--/.nav-collapse -->
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
     </div>
-  </nav>
 
-  <div class="container">
-    <div class="content">
-      {{ content }}
-    </div>
-  </div><!-- /.container -->
+    {% include scripts.html %}
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113521888-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-113521888-1');
-  </script>
-
-
-
-</body>
-
+  </body>
 </html>
