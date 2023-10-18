@@ -26,8 +26,8 @@ redirect_from:
 ### Positions Held: Johns Hopkins University
 * *Instructor of Record:* EN.553.109 - Mathematical Thinking and Proof Writing for Engineers (Winter 2020)
   - [Lecture notes](/files/proof_class_notes.pdf)
-  - [Homework 1](/files/proof_homework1.pdf) [(Solutions)](/files/proof_homework1_sols.pdf)
-  - [Homework 2](/files/proof_homework2.pdf) [(Solutions)](/files/proof_homework2_sols.pdf)
+  - [Homework 1](/files/proof_homework1.pdf) [(solutions)](/files/proof_homework1_sols.pdf)
+  - [Homework 2](/files/proof_homework2.pdf) [(solutions)](/files/proof_homework2_sols.pdf)
 * *Teaching Assistant:* EN.553.792 - Matrix Analysis & Linear Algebra (Fall 2019)
   - [Recitation section notes](files/matrix_section_notes.pdf)
 * *Teaching Assistant:* EN.553.311 - Probability & Statistics for the Biological Sciences & Engineering (Spring 2019)
