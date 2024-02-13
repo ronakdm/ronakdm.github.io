@@ -13,8 +13,8 @@ redirect_from:
 
 **Distributionally Robust Optimization with Bias and Variance Reduction**  
 **Ronak Mehta**, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui 
-*Under review*.  
-[PDF](https://arxiv.org/abs/2310.13863) &nbsp;  
+*ICLR, 2024 (**Spotlight: top 5% of submissions**)*. 
+[PDF](https://openreview.net/pdf?id=TTrzgEZt9s) &nbsp;
 
 ## Conferences
 

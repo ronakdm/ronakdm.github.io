@@ -10,6 +10,7 @@ redirect_from:
 <!-- Leave two spaces at the end -->
 
 **Distributionally Robust Learning with Bias and Variance Reduction**  [[Slides]](/files/informs_23_10_17.pdf) &nbsp;
+* [*NSF TRIPODS Workshop 2024*](https://encore.ucsd.edu/nsf-tripods-workshop/), February 2024, San Diego, CA, USA.  
 * [*INFORMS Annual Meeting 2023*](https://meetings.informs.org/wordpress/phoenix2023/), October 2023, Phoenix, AZ, USA.  
 * [*SIAM PNW Conference 2023*](https://sites.google.com/view/siampnw23/), October 2023, Bellingham, WA, USA.  
 
