@@ -19,14 +19,14 @@ redirect_from:
 ## Preprints
 
 **A Primal-Dual Algorithm for Faster Distributionally Robust Optimization**  
-**Ronak Mehta**, Jelena Diakonikolas, Zaid Harchaoui 
+**Ronak Mehta**, Jelena Diakonikolas, Zaid Harchaoui  
 *Under review*.
 [PDF](https://arxiv.org/abs/2403.10763) &nbsp;
 
 ## Conferences
 
 **Distributionally Robust Optimization with Bias and Variance Reduction**  
-**Ronak Mehta**, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui 
+**Ronak Mehta**, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui  
 *ICLR, 2024 (**Spotlight: top 5% of submissions**)*. 
 [PDF](https://openreview.net/pdf?id=TTrzgEZt9s) &nbsp;
 
