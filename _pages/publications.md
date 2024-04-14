@@ -51,6 +51,6 @@ Sitan Yang, Malcolm Wolff, Shankar Ramasubramanian, Vincent Quenneville-Belair, 
 [PDF](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_16.pdf) &nbsp;
 
 **Learning with Primal-Dual Spectral Risk Measures: a Fast Incremental Algorithm**  
-**Ronak Mehta**, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui
+**Ronak Mehta**, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui  
 *ICML Duality Principles for Modern Machine Learning, 2023*.  
 [PDF](https://dp4ml.github.io/assets/pdf/learning_primal_dual_srm_camera_ready.pdf) &nbsp;
