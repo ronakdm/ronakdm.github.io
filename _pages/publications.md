@@ -9,13 +9,6 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-<!-- ## Preprints
-
-**Distributionally Robust Optimization with Bias and Variance Reduction**  
-**Ronak Mehta**, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui 
-*ICLR, 2024 (**Spotlight: top 5% of submissions**)*. 
-[PDF](https://openreview.net/pdf?id=TTrzgEZt9s) &nbsp; -->
-
 ## Preprints
 
 **A Primal-Dual Algorithm for Faster Distributionally Robust Optimization**  
@@ -28,7 +21,7 @@ redirect_from:
 **Distributionally Robust Optimization with Bias and Variance Reduction**  
 **Ronak Mehta**, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui  
 *ICLR, 2024 (**Spotlight: top 5% of submissions**)*. 
-[PDF](https://openreview.net/pdf?id=TTrzgEZt9s) &nbsp;
+[PDF](https://openreview.net/pdf?id=TTrzgEZt9s) &nbsp; [Code](https://github.com/ronakdm/prospect) &nbsp; [Poster](/files/prospect-poster.pdf)
 
 **Stochastic Optimization for Spectral Risk Measures**  
 **Ronak Mehta**, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui  
@@ -50,7 +43,7 @@ Sitan Yang, Malcolm Wolff, Shankar Ramasubramanian, Vincent Quenneville-Belair, 
 *KDD Mining and Learning with Graphs, 2023*.  
 [PDF](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_16.pdf) &nbsp;
 
-**Learning with Primal-Dual Spectral Risk Measures: a Fast Incremental Algorithm**  
+<!-- **Learning with Primal-Dual Spectral Risk Measures: a Fast Incremental Algorithm**  
 **Ronak Mehta**, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui  
 *ICML Duality Principles for Modern Machine Learning, 2023*.  
-[PDF](https://dp4ml.github.io/assets/pdf/learning_primal_dual_srm_camera_ready.pdf) &nbsp;
+[PDF](https://dp4ml.github.io/assets/pdf/learning_primal_dual_srm_camera_ready.pdf) &nbsp; -->
