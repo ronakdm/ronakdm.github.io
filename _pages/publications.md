@@ -26,7 +26,7 @@ redirect_from:
 **Stochastic Optimization for Spectral Risk Measures**  
 **Ronak Mehta**, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui  
 *AISTATS, 2023*.  
-[PDF](https://proceedings.mlr.press/v206/mehta23b/mehta23b.pdf) &nbsp;  
+[PDF](https://proceedings.mlr.press/v206/mehta23b/mehta23b.pdf) &nbsp; [Code](https://github.com/ronakdm/lerm/) &nbsp; [Poster](/files/lrm-poster.pdf)
 
 ## Journals
 
