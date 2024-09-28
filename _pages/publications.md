@@ -9,14 +9,24 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-## Preprints
+<!-- ## Preprints
 
 **A Primal-Dual Algorithm for Faster Distributionally Robust Optimization**  
 **Ronak Mehta**, Jelena Diakonikolas, Zaid Harchaoui  
 *Under review*.  
-[PDF](https://arxiv.org/abs/2403.10763) &nbsp;
+[PDF](https://arxiv.org/abs/2403.10763) &nbsp; -->
 
 ## Conferences
+
+**The Benefits of Balance: From Information Projections to Variance Reduction**  
+Lang Liu, **Ronak Mehta**, Soumik Pal, Zaid Harchaoui  
+*NeurIPS, 2024*.
+[PDF](https://arxiv.org/abs/2408.15065) &nbsp;
+
+**A Primal-Dual Algorithm for Faster Distributionally Robust Optimization**  
+**Ronak Mehta**, Jelena Diakonikolas, Zaid Harchaoui  
+*NeurIPS, 2024*.  
+[PDF](https://arxiv.org/abs/2403.10763) &nbsp;
 
 **Distributionally Robust Optimization with Bias and Variance Reduction**  
 **Ronak Mehta**, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui  
