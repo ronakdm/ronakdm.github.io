@@ -20,7 +20,7 @@ redirect_from:
 
 **The Benefits of Balance: From Information Projections to Variance Reduction**  
 Lang Liu, **Ronak Mehta**, Soumik Pal, Zaid Harchaoui  
-*NeurIPS, 2024*.
+*NeurIPS, 2024*.  
 [PDF](https://arxiv.org/abs/2408.15065) &nbsp;
 
 **A Primal-Dual Algorithm for Faster Distributionally Robust Optimization**  
