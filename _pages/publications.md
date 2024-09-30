@@ -40,9 +40,14 @@ Lang Liu, **Ronak Mehta**, Soumik Pal, Zaid Harchaoui
 
 ## Journals
 
+**Independence Testing for Temporal Data**  
+Cencheng Shen, Jaewon Chung, **Ronak Mehta**, Ting Xu, Joshua T. Vogelstein  
+*TMLR, 2024*.  
+[PDF](https://openreview.net/forum?id=jv1aPQINc4) &nbsp; 
+
 **Manifold Oblique Random Forests: Towards Closing the Gap on Convolutional Deep Networks**  
-Adam Li, Ronan Perry, Chester Huynh, Tyler M. Tomita, **Ronak Mehta**, Jesus Arroyo, Jesse Patsolic, Ben Falk, Sridevi Sarma, and Joshua Vogelstein  
-*SIAM Jour. Mathematics of Data Science, 2023.*.  
+Adam Li, Ronan Perry, Chester Huynh, Tyler M. Tomita, **Ronak Mehta**, Jesus Arroyo, Jesse Patsolic, Ben Falk, Sridevi Sarma, and Joshua T. Vogelstein  
+*SIAM Jour. Mathematics of Data Science, 2023*.  
 [PDF](https://epubs.siam.org/doi/10.1137/21M1449117) &nbsp;  
 
 
