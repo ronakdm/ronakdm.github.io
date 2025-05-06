@@ -21,12 +21,12 @@ redirect_from:
 **The Benefits of Balance: From Information Projections to Variance Reduction**  
 Lang Liu, **Ronak Mehta**, Soumik Pal, Zaid Harchaoui  
 *NeurIPS, 2024*.  
-[PDF](https://arxiv.org/abs/2408.15065) &nbsp; [Code](https://github.com/ronakdm/balancing) &nbsp;  [Poster](/files/raking-poster.pdf) &nbsp;  
+[PDF](https://openreview.net/forum?id=vJMMdFfL0A&) &nbsp; [Code](https://github.com/ronakdm/balancing) &nbsp;  [Poster](/files/raking-poster.pdf) &nbsp;  
 
-**A Primal-Dual Algorithm for Faster Distributionally Robust Optimization**  
+**Drago: Primal-Dual Coupled Variance Reduction for Faster Distributionally Robust Optimization**  
 **Ronak Mehta**, Jelena Diakonikolas, Zaid Harchaoui  
 *NeurIPS, 2024*.  
-[PDF](https://arxiv.org/abs/2403.10763) &nbsp; [Code](https://github.com/ronakdm/drago) &nbsp;  
+[PDF](https://openreview.net/forum?id=ujk0XrNTQZ) &nbsp; [Code](https://github.com/ronakdm/drago) &nbsp; [Poster](/files/drago-poster.pdf) &nbsp;  
 
 **Distributionally Robust Optimization with Bias and Variance Reduction**  
 **Ronak Mehta**, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui  

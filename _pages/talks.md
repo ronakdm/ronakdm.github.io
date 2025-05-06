@@ -9,6 +9,12 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**The Benefits of Balance: From Information Projections to Variance Reduction** [[Slides]](/files/raking_ratio_ifds_25_04_18.pdf) &nbsp;
+* *UW IFDS Seminar*, April 2025, Seattle, WA, USA.
+
+**Experimentally Informed Signal Processing with Supervised Independent Component Analysis** [[Slides]](/files/nih-retreat-2025.pdf) &nbsp;
+* *Optostim x XAI Retreat*, February 2025, Seattle, WA, USA.
+
 **Distributionally Robust Learning with Bias and Variance Reduction**  [[Slides]](/files/informs_23_10_17.pdf) &nbsp;
 * [*NSF TRIPODS Workshop 2024*](https://encore.ucsd.edu/nsf-tripods-workshop/), February 2024, San Diego, CA, USA.  
 * [*INFORMS Annual Meeting 2023*](https://meetings.informs.org/wordpress/phoenix2023/), October 2023, Phoenix, AZ, USA.  
