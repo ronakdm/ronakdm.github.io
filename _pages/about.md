@@ -13,4 +13,4 @@ I am a Ph.D. student in the [Department of Statistics](http://www.stat.washingto
 at Johns Hopkins University, advised by [Joshua T. Vogelstein](https://jovo.me/)
 and [Carey Priebe](https://www.ams.jhu.edu/~priebe/).
 
-I am broadly interested in machine learning and optimization. My current research focuses on distributionally robust optimization and applications of graph neural networks.
+I am broadly interested in machine learning and optimization. My current research focuses on optimization and statistical learning methods across a number of applications, including distributional robustness and self-supervised learning.
