@@ -9,6 +9,9 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**Statistical Foundations of Foundation Modeling** [[Slides]](/files/final_exam_no_appx.pdf) &nbsp;
+* *Ph.D. Final Examination*, June 2025, Seattle, WA, USA.
+
 **The Benefits of Balance: From Information Projections to Variance Reduction** [[Slides]](/files/raking_ratio_ifds_25_04_18.pdf) &nbsp;
 * *UW IFDS Seminar*, April 2025, Seattle, WA, USA.
 
