@@ -45,6 +45,11 @@ Lang Liu, **Ronak Mehta**, Soumik Pal, Zaid Harchaoui
 
 ## Journals
 
+**Min-Max Optimization with Dual-Linear Coupling**  
+**Ronak Mehta**, Jelena Diakonikolas, Zaid Harchaoui  
+*Under Review*.  
+[Paper](https://arxiv.org/pdf/2507.06328) &nbsp; 
+
 **Independence Testing for Temporal Data**  
 Cencheng Shen, Jaewon Chung, **Ronak Mehta**, Ting Xu, Joshua T. Vogelstein  
 *TMLR, 2024*.  

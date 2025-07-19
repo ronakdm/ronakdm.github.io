@@ -9,6 +9,9 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**A Generalization Theory for Zero-Shot Prediction** [[Slides]](/files/zeroshot_icml2025_oral.pdf) &nbsp;
+* [*ICML 2025 Oral Presentation*](https://icml.cc/virtual/2025/oral/47197), July 2025, Vancouver, BC, Canada.
+
 **Statistical Foundations of Foundation Modeling** [[Slides]](/files/final_exam_no_appx.pdf) &nbsp;
 * *Ph.D. Final Examination*, June 2025, Seattle, WA, USA.
 
