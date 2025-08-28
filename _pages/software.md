@@ -9,6 +9,9 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+[**multiica**](https://github.com/ronakdm/multiica) &nbsp;
+Code and experiments for the paper "Supervised Stochastic Gradient Algorithms for Multi-Trial Source Separation" (under review). 
+
 [**balancing**](https://github.com/ronakdm/deshift) &nbsp;
 Code and experiments for the paper "The Benefits of Balance: From Information Projections to Variance Reduction" (NeurIPS '24).
 
