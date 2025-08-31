@@ -67,3 +67,9 @@ Adam Li, Ronan Perry, Chester Huynh, Tyler M. Tomita, **Ronak Mehta**, Jesus Arr
 Sitan Yang, Malcolm Wolff, Shankar Ramasubramanian, Vincent Quenneville-Belair, **Ronak Mehta**, Michael W. Mahoney  
 *KDD Mining and Learning with Graphs, 2023*.  
 [Paper](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_16.pdf) &nbsp;
+
+## Dissertation
+
+**Statistical Learning from Shifting, Indirect, or Unseen Data: Efficient Algorithms and Theoretical Guarantees**  
+**Ronak Mehta**. 
+[Paper](/files/rmehta_thesis_revision.pdf) &nbsp;
