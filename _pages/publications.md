@@ -71,5 +71,5 @@ Sitan Yang, Malcolm Wolff, Shankar Ramasubramanian, Vincent Quenneville-Belair, 
 ## Dissertation
 
 **Statistical Learning from Shifting, Indirect, or Unseen Data: Efficient Algorithms and Theoretical Guarantees**  
-**Ronak Mehta**. 
+**Ronak Mehta**.  
 [Paper](/files/rmehta_thesis_revision.pdf) &nbsp;

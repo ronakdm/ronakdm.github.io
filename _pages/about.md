@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student in the [Department of Statistics](http://www.stat.washington.edu/) at the University of Washington, and am fortunate to be advised by [Zaid Harchaoui](https://faculty.washington.edu/zaid/). Previously, I was an undergraduate and Master's student in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/)
+I recently received my Ph.D. from the [Department of Statistics](http://www.stat.washington.edu/) at the University of Washington, and was fortunate to be advised by [Zaid Harchaoui](https://faculty.washington.edu/zaid/). Previously, I was an undergraduate and Master's student in the [Department of Applied Mathematics and Statistics](https://engineering.jhu.edu/ams/)
 at Johns Hopkins University, advised by [Joshua T. Vogelstein](https://jovo.me/)
 and [Carey Priebe](https://www.ams.jhu.edu/~priebe/).
 
